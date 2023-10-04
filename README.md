@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=satyadev2&icon=0&color=3)](https://visitcount.itsvg.in)
 
+[![An image of @satyadev2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyadev2)](https://holopin.io/@satyadev2)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
